@@ -1,4 +1,4 @@
-package Singleton.SingleThreaded;
+package DesignPatterns.Singleton.SingleThreaded;
 
 public class DatabaseConnection {
     private static DatabaseConnection databaseConnection=null;

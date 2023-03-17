@@ -1,4 +1,4 @@
-package Singleton.doubleCheckLoading;
+package DesignPatterns.Singleton.doubleCheckLoading;
 
 public class DatabaseConnection {
     private static DatabaseConnection databaseConnection=null;
